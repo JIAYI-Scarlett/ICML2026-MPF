@@ -5,9 +5,7 @@
 
 
 <p align="center">
-  <video src="./assets/MPF.mp4" autoplay loop muted playsinline controls style="width: 100%; max-width: 800px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);"></video>
-  <br>
-  <em>Figure 1: Dynamic 3D visualization of our non-manifold reconstruction results.</em>
+  <video src="assets/MPF.mp4" controls autoplay loop muted width="85%"></video>
 </p>
 
 ---
@@ -32,7 +30,7 @@ Ying He<sup>1</sup>
 Corresponding author: Ying He (yhe@ntu.edu.sg)
 
 For any questions regarding the paper, code, or datasets, please feel free to contact:
-* **Kong Jiayi**: [jiayi006@e.ntu.edu.sg](mailto:jiayi006@e.ntu.edu.sg)
+* **Jiayi Kong**: [jiayi006@e.ntu.edu.sg](mailto:jiayi006@e.ntu.edu.sg)
 ---
 
 ## Abstract
