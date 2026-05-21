@@ -3,12 +3,8 @@
 > Official implementation of **Metric--Phase Fields (MPFs)**  
 > Code release coming soon.
 
+<img src="assets/MPF-demo.gif" width="85%">
 
-<p align="center">
-  <video src="assets/MPF.mp4" controls autoplay loop muted width="85%"></video>
-</p>
-
----
 
 ## Authors
 
@@ -53,6 +49,7 @@ We introduce Metric–-Phase Fields (MPFs), a decoupled implicit representation 
 
 <p align="center">
   <img src="assets/pipeline.jpg" width="85%">
+  
 </p>
 
 Our framework learns:
