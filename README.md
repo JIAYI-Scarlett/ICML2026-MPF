@@ -22,7 +22,7 @@ Junhui Hou<sup>5</sup>,
 Wenping Wang<sup>6</sup>, 
 Ying He<sup>1</sup>
 
-<sup>1</sup> S-Lab, Nanyang Technological University, Singapore   (jiayi006@e.ntu.edu.sg)
+<sup>1</sup> S-Lab, Nanyang Technological University, Singapore 
 <sup>2</sup> Institute of Software, Chinese Academy of Sciences, China  
 <sup>3</sup> University of Chinese Academy of Sciences, China  
 <sup>4</sup> Nanjing University of Aeronautics and Astronautics, China  
@@ -30,7 +30,8 @@ Ying He<sup>1</sup>
 <sup>6</sup> Texas A&M University, USA  
 
 Corresponding author: Ying He (yhe@ntu.edu.sg)
-
+For any questions regarding the paper, code, or datasets, please feel free to contact:
+* **Kong Jiayi (Scarlett)**: [jiayi006@e.ntu.edu.sg](mailto:jiayi006@e.ntu.edu.sg)
 ---
 
 ## Abstract
