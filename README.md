@@ -22,7 +22,7 @@ Junhui Hou<sup>5</sup>,
 Wenping Wang<sup>6</sup>, 
 Ying He<sup>1</sup>
 
-<sup>1</sup> S-Lab, Nanyang Technological University, Singapore  
+<sup>1</sup> S-Lab, Nanyang Technological University, Singapore   (jiayi006@e.ntu.edu.sg)
 <sup>2</sup> Institute of Software, Chinese Academy of Sciences, China  
 <sup>3</sup> University of Chinese Academy of Sciences, China  
 <sup>4</sup> Nanjing University of Aeronautics and Astronautics, China  
