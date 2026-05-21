@@ -30,8 +30,9 @@ Ying He<sup>1</sup>
 <sup>6</sup> Texas A&M University, USA  
 
 Corresponding author: Ying He (yhe@ntu.edu.sg)
+
 For any questions regarding the paper, code, or datasets, please feel free to contact:
-* **Kong Jiayi (Scarlett)**: [jiayi006@e.ntu.edu.sg](mailto:jiayi006@e.ntu.edu.sg)
+* **Kong Jiayi**: [jiayi006@e.ntu.edu.sg](mailto:jiayi006@e.ntu.edu.sg)
 ---
 
 ## Abstract
